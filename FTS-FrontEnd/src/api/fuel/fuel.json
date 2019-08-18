@@ -1,0 +1,35 @@
+[
+  {
+    "price": 1,
+    "color": "red"
+  },
+  {
+    "price": 4,
+    "color": "blue"
+  },
+  {
+    "price": 1,
+    "color": "green"
+  },
+  {
+    "price": 3,
+    "color": "yellow"
+  },
+  {
+    "price": 10,
+    "color": "black"
+  },
+  {
+    "price": 10,
+    "color": "black"
+  },
+  {
+    "price": 3,
+    "color": "black"
+  },
+  {
+    "price":2,
+    "color":"white"
+  }
+
+]

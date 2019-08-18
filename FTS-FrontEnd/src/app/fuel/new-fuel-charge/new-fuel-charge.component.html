@@ -1,0 +1,17 @@
+<div class="card container">
+  <form [formGroup]="fuelForm" (ngSubmit)="updateFuel()">
+    <br>
+    <label>
+      Price:
+    </label>
+    <input type="text" formControlName="price" />
+    <label>
+      Milage:
+    </label>
+    <input type="text" formControlName="milage" />
+    <div class="form-group">
+      <button type="submit">Submit</button>
+    </div>
+  </form>  
+  
+</div>
