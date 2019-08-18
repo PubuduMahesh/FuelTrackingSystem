@@ -1,0 +1,10 @@
+db.fuel.insert([
+  {
+    price: 1,
+    color: "red"
+  },
+  {
+    price: 4,
+    color: "blue"
+  }
+]);
